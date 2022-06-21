@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GFT-Test-NguyenVanDuy</string>
+    <string name="error">Something went wrong. Please check network connection and retry.</string>
+</resources>
